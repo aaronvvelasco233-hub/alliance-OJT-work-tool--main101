@@ -1,6 +1,9 @@
 # alliance-OJT-work-tool--main101
+
 Alliance Software OJT Tools by Master Sanchez
-Hey there! 👋 This is a collection of easy-to-use tools I created during my OJT at Alliance Software to make daily tasks faster, smoother, and way more convenient. If you work with sales data, SQL, or XML files, these little helpers might just save you some serious time.
+Hey there! 
+
+👋 This is a collection of easy-to-use tools I created during my OJT at Alliance Software to make daily tasks faster, smoother, and way more convenient. If you work with sales data, SQL, or XML files, these little helpers might just save you some serious time.
 
 What’s Inside?
 🕵️ Missing Receipt Finder / Checker
